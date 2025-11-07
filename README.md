@@ -57,7 +57,11 @@
 - 💬 Always open to collaboration & learning together!
 
 ---
-# I am a passionate Frontend developer
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
+
+# I am a passionate Programmer
+_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
 </div>
