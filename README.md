@@ -23,6 +23,7 @@
 
 ---
 
+
 ## 🛠️ Tech Stack  
 
 <div align="center">
@@ -37,12 +38,21 @@
 ![Node.js](https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 🤖 **Machine Learning / AI**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-00BFFF?style=for-the-badge&logo=ai&logoColor=white)
+
+### 📊 **Data / Analytics**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+
 ### 🧰 **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
+
+
 
 ---
 
