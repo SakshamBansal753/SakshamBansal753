@@ -18,7 +18,7 @@
 🌗 Passionate about **Web Development**  
 💻 Currently exploring **Node.js** and improving my **DSA** skills  
 🚀 Aspiring **Full-Stack Developer / Software Engineer**  
-🧠 Clean code enthusiast & detail-oriented problem solver  
+🧠 Clean code enthusiast & detail-oriented problem solver and web developer  
 📚 Maintained **First Year CGPA > 9.5**
 
 ---
