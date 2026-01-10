@@ -60,6 +60,12 @@
 
 <!-- GitHub Stats & Streaks -->
 <p align="center">
+  <img src="https://img.shields.io/github/followers/SakshamBansal753?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/SakshamBansal753?style=social" />
+/>
+
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamBansal753&layout=compact&theme=tokyonight" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamBansal753&theme=tokyonight&hide_border=false" height="165" />
