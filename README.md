@@ -60,7 +60,8 @@
 
 <!-- GitHub Stats & Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com?user=SakshamBansal753&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamBansal753&layout=compact&theme=tokyonight" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamBansal753&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
