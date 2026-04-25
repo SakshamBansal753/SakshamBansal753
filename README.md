@@ -14,15 +14,55 @@
 
 ## 🚀 About Me  
 
-💡 Turning **curiosity into code** — one project at a time.  
-🌗 Passionate about **Web Development**  
-🚀 Aspiring **Full-Stack Developer / Software Engineer**  
-🧠 Clean code enthusiast & detail-oriented problem solver and web developer  
-📚 Maintained **My Current CGPA =9.5** <br>
-📚 **Top 5** in DSA compedition<br>
-🌗 Have **600+** questions on leetcode **900+** all platforms<br>
-💻 **5th** in institute in academics **1st** in department and branch and **20th** in competitive in overall institue <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Curiosity+into+Code;Aspiring+Full-Stack+Developer;Clean+Code+Enthusiast" />
+</p>
 
+---
+
+### 🧑‍💻 Profile Snapshot  
+
+| 💡 **Focus** | 🚀 **Goal** | 🧠 **Strengths** |
+|-------------|------------|----------------|
+| Web Development | Full-Stack Developer / Software Engineer | Clean Code • Problem Solving • Detail-Oriented |
+
+---
+
+### 📊 Achievements  
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CGPA-9.5-blue?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Top%205-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-600%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Total%20Problems-900%2B-yellow?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+</p>
+
+---
+
+### 🏆 Rankings  
+
+| 🎓 Academics | 🧑‍💻 Department | ⚔️ Competitive | 💡Branch |
+|-------------|---------------|---------------|---------------|
+| 5th in Institute | 🥇 1st in Department | 🏅 20th Overall | 🏅1st in Branch|
+
+---
+
+### ⚡ Quick Highlights  
+
+- 💡 Turning ideas into real-world projects  
+- 📚 Consistently high academic performance (**9.5 CGPA**)  
+- 🧠 Strong foundation in **Data Structures & Algorithms**  
+- 🔥 Solved **900+ problems** across platforms  
+
+---
+
+### 🌟 Fun Fact  
+
+```diff
++ I debug faster than I panic 😄
+```
 ---
 
 
