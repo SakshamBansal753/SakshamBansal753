@@ -16,10 +16,12 @@
 
 💡 Turning **curiosity into code** — one project at a time.  
 🌗 Passionate about **Web Development**  
-💻 Currently exploring **Node.js** and improving my **DSA** skills  
 🚀 Aspiring **Full-Stack Developer / Software Engineer**  
 🧠 Clean code enthusiast & detail-oriented problem solver and web developer  
-📚 Maintained **First Year CGPA > 9.5**
+📚 Maintained **My Current CGPA =9.5** <br>
+📚 **Top 5** in DSA compedition<br>
+🌗 Have **600+** questions on leetcode **900+** all platforms<br>
+💻 **5th** in institute in academics **1st** in department and branch and **20th** in competitive in overall institue <br>
 
 ---
 
