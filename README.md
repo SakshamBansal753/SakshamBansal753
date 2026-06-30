@@ -115,8 +115,10 @@
     <a href="https://github.com/SakshamBansal753/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SakshamBansal753's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamBansal753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+  <img  alt="Coding" width="380" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 </p>
-<a href="https://github.com/SakshamBansal753/github-readme-stats"><img alt="Saksham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SakshamBansal753&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
 
 
 <br>
@@ -128,7 +130,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamBansal753&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamBansal753&theme=react-dark&bg_color=0d1117&color=4169E1&line=00008B&point=00f5ff&area=true&area_color=4169E1&hide_border=false&border_color=4169E1" width="100%"/>
 </div>
 ---
 
