@@ -24,7 +24,7 @@
 
 | 💡 **Focus** | 🚀 **Goal** | 🧠 **Strengths** |
 |-------------|------------|----------------|
-| Web Development | Full-Stack Developer / Software Engineer | Clean Code • Problem Solving • Detail-Oriented |
+| Web Development & Artificial Intelligence | Full-Stack Developer / Software Engineer/AI engineer | Clean Code • Problem Solving • Detail-Oriented |
 
 ---
 
