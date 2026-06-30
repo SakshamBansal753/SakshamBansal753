@@ -34,8 +34,8 @@
 
 <img src="https://img.shields.io/badge/CGPA-9.5-blue?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-Top%205-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/LeetCode-600%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Total%20Problems-900%2B-yellow?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-700%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Total%20Problems-960%2B-yellow?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
 </p>
 
@@ -137,6 +137,8 @@
 <div align="center">
   <a href="https://github.com/SakshamBansal753"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saksham-bansal-58123333a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sa_ksham/"><img src="https://img.shields.io/badge/LeetCode-700%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+ 
 </div>
 
 ---
