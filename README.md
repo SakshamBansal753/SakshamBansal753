@@ -2,9 +2,7 @@
 
 <img src="https://github.com/SakshamBansal753/SakshamBansal753/blob/main/Black%20Minimalist%20Linkedin%20Banner.png" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
-</p>
+
 
 ---
 
@@ -65,6 +63,10 @@
 ```
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
+</p>
+
 
 ## 🛠️ Tech Stack  
 
@@ -92,7 +94,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 
+
+
 </div>
+
+
+
 
 
 
