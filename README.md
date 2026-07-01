@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #000; color: #fff;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hey,+I'm+Saksham+Bansal!+👋&fontSize=35&fontColor=ffffff&fontAlignY=40" />
+<img src="https://github.com/SakshamBansal753/SakshamBansal753/blob/main/Black%20Minimalist%20Linkedin%20Banner.png" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
@@ -151,6 +151,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Comming!;+Also+check+my+Linkedin;">
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3D3D3,100:808080&height=120&section=footer" />
 
 </div>
