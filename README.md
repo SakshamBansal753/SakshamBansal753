@@ -22,6 +22,7 @@
 
 | 💡 **Focus** | 🚀 **Goal** | 🧠 **Strengths** |
 |-------------|------------|----------------|
+| Artificial intelligence | AI Engineer | AI Core Logic Understanding|
 | Web Development & Artificial Intelligence | Full-Stack Developer / Software Engineer/AI engineer | Clean Code • Problem Solving • Detail-Oriented |
 
 ---
