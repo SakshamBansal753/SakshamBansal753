@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 Passionate about building for the web and programming one step at a time.
+### 🧑‍💻 Passionate about building for the web and AI and programming one step at a time.
 
 ---
 
