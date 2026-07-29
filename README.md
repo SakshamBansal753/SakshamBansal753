@@ -44,7 +44,7 @@
 
 | 🎓 Academics | 🧑‍💻 Department | ⚔️ Competitive | 💡Branch |
 |-------------|---------------|---------------|---------------|
-| 5th in Institute | 🥇 1st in Department | 🏅 20th Overall | 🏅1st in Branch|
+| 5th in Institute | 🥇 1st in Department | 🏅 15th Overall | 🏅1st in Branch|
 
 ---
 
